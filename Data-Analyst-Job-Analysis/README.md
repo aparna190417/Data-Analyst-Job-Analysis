@@ -64,7 +64,7 @@ Interactive dashboard showing:
 - Top Locations + Top Hiring Companies
 - Skills/Industry demand
 
-![Power BI Dashboard](PowerBI_Dashboard/netflix_dashboard.png)
+![Power BI Dashboard](Data_Analyst_Job_Analysis_Dashboard.png)
 
 
 ---
