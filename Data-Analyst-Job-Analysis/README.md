@@ -63,6 +63,7 @@ Interactive dashboard showing:
 - Salary range by Industry
 - Top Locations + Top Hiring Companies
 - Skills/Industry demand
+  
 
 ![Power BI Dashboard](Data_Analyst_Job_Analysis_Dashboard.png)
 
