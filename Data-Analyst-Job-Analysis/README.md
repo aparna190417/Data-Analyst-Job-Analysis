@@ -65,8 +65,7 @@ Interactive dashboard showing:
 - Skills/Industry demand
   
 
-![PowerBI_Dashboard](Data_Analyst_Job_Analysis_Dashboard.png)
-
+![Power BI Dashboard Preview](PowerBI_Dashboard/Data_Analyst_Job_Analysis_Dashboard.png)
 
 ---
 
