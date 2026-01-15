@@ -16,6 +16,7 @@ The goal is to use Exploratory Data Analysis (EDA) and text analytics to answer 
 - Extracted experience levels from job descriptions
 - Identified in-demand skills like Python, SQL, Excel, Power BI, Tableau, etc.
 - Generated a WordCloud for the most common keywords in job postings
+- Created an **industry-style Power BI Dashboard** 
 
 ---
 
@@ -24,11 +25,13 @@ The goal is to use Exploratory Data Analysis (EDA) and text analytics to answer 
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - WordCloud
+- PowerBi
 
 ---
 
 ## Project Structure
 Data-Analyst-Job-Analysis/
+|__ PowerBi_Dashboard/
 │── notebook/
 │── data/
 │── images/
@@ -54,10 +57,22 @@ Data-Analyst-Job-Analysis/
 
 ---
 
+## Power BI Dashboard (Preview)
+Interactive dashboard showing:
+- Total Jobs, Avg Salary, Avg Rating, Easy Apply %
+- Salary range by Industry
+- Top Locations + Top Hiring Companies
+- Skills/Industry demand
+
+![Power BI Dashboard](PowerBI_Dashboard/netflix_dashboard.png)
+
+
+---
+
 ## Conclusion
 
 This analysis gives a clear picture of what employers expect from Data Analyst candidates.
-Most job roles strongly demand Python + SQL + Excel, along with visualization skills like Power BI/Tableau.
+Most job roles strongly demand Python + SQL + Excel, along with visualization skills like Power BI.
 The project can be extended further by adding salary prediction or building an interactive dashboard.
 
 ----
