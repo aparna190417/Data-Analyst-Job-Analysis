@@ -64,6 +64,7 @@ Interactive dashboard showing:
 - Top Locations + Top Hiring Companies
 - Skills/Industry demand
   
+### Power BI Dashboard Screenshots
 
 ![Power BI Dashboard Preview](PowerBI_Dashboard/Data_Analyst_Job_Analysis_Dashboard.png)
 
